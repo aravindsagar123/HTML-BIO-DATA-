@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        aravind
+    </title>
+    <body>
+        <h1><b><i>ARAVIND SAGAR P T</i></b></h1>
+        <H1><b><i>MECHANICAL ENGINEER</i></b> </H2>
+        <h1><b><i>D.O.B 15 . 06 . 1998</i></b> </h3>
+
+            <p>
+                <b> <i>To make optimum utilization of 
+                    my knowledge and skills, utilize 
+                    opportunities effectively for 
+                    professional growth and contribute the
+                    best for the betterment of the 
+                    organization and self.</i></b>
+            </p>
+            
+            
+                                    
+        <a href="https://github.com/aravindsagar123?tab=repositories"><b> for git hub please click here</b></a>
+        <br>
+                    <img src="C:\Users\LENOVO\test\New folder\PHOTO TSET\ARAVIND 31KB PHOTO.jpg" alt="hello" width="300">
+
+                    <h2> <i>experence</i> :<b> WORKED IN SHEENA JAYAN CONSTURUTION COMAPANY FROM 15 JUNE 2019 TO 18 SEPTEMBER 2022</b></h2>
+                    <br>
+                    <h2><i>language skills</i> :<b> CERTIFICATION IN ENGLISH CONDUCTED BY I E L T S ,</b>
+                                        <b> CERTIFICATION IN A1 GERMAN CERTIFICATE BY GOTHE , </b>
+                                        <b> CERTIFICATION IN A2 GERMAN CERTIFICATE BY GOTHE ,  </b>
+                                        <b> AND MOTHER TONGUE MALAYALAM </b>
+                                        <br> 
+           <h2><i>certificate</i>:<b><ins> CERTIFIACTE IN ASPIN PLUS</ins> </b>
+            <br>
+                                    <b><ins> CERTIFICATE IN MATT LAB </ins> </b>
+                                    <br>
+                                    <b><ins>CERTIFICATE IN  TECH EXPO CONDUCED BY ANNA UNIVERSITY</ins>  </b>
+        </h2>
+        <H2> <i>skills</i>:<b> high level of accuracy , knowledge in c and c++, ability to work in group as well as independent,
+            knowledge in html </b>
+        </H2>
+           
+        <h2> <i> hobbies :</i><b> playing different sports , reading adventerous stories , traveling to different locations, listening to music</b></h2>
+        <h2><i>contact :</i><b> mobile no :- <mark>+91 6282552805</mark>
+<br>
+             email :-<mark>aravindsagar201544@gmail.com</mark></b></h2>
+
+        <h3> <i>for refernce :</i><b>Midhun T.K (Managing director) – Sheena Jayan & Sons Contracting LLP </b></h3>
+              
+                    
+    
+   
+    </body>
+</html>
